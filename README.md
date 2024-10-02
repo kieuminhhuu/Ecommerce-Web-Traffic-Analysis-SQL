@@ -1,4 +1,4 @@
-# Ecommerce-Web-Traffic [SQL in Bigquery]
+# Ecommerce-Web-Traffic-Analysis[SQL in Bigquery]
 ## I. Introduction
 - This project contains an eCommerce dataset that I will explore using SQL on Google BigQuery. The dataset is based on the Google Analytics public dataset and contains data from an eCommerce website.
 - Table Schema: https://support.google.com/analytics/answer/3437719?hl=en
